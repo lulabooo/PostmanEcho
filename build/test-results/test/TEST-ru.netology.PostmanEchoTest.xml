@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-04T15:39:09" hostname="MacBook-Air-Maria.local" time="7.694">
+<testsuite name="ru.netology.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-04T15:44:13" hostname="MacBook-Air-Maria.local" time="7.109">
   <properties/>
-  <testcase name="shouldPostRawTextTest()" classname="ru.netology.PostmanEchoTest" time="7.694"/>
+  <testcase name="shouldPostRawTextTest()" classname="ru.netology.PostmanEchoTest" time="7.109"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
